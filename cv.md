@@ -4,6 +4,7 @@
 * **Email:** [alexander_rozhkov@icloud.com](href="mailto:alexander_rozhkov@icloud.com "email")
 * **GitHub:** [sasharozhkov](https://github.com/sasharozhkov "github")
 * **Telegram** [alexrozhkov23](https://t.me/alexrozhkov23 "telegram")
+
 ## About Me:
 My name is Alexander, I’m 30 years old. I live in the city of Gomel. When I was in college, I wrote websites and I really liked it. Working in different jobs, I was still interested in Web technology. Quit my job, I took a year off to do something I really like. And here I am...
 * **My strengths:** 
