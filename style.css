@@ -1,0 +1,10 @@
+.all{
+    background-color: aliceblue;
+}
+.section {
+    position: relative;
+}
+.name {
+    color: red;
+    text-align: center;
+}
