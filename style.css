@@ -226,7 +226,7 @@
   }
   
   .contacts-item:nth-child(1):before {
-    background-image: url("/assets/img/email.png");
+    background-image: url("assets/img/email.png");
     top: 0px;
     left: 0px;
     width: 30px;
@@ -238,7 +238,7 @@
     left: 0px;
     width: 30px;
     height: 30px;
-    background-image: url("/assets/img/github.png");
+    background-image: url("assets/img/github.png");
   }
   
   .contacts-item:nth-child(3):before {
@@ -246,7 +246,7 @@
     left: 0px;
     width: 30px;
     height: 30px;
-    background-image: url("/assets/img/telegram.png");
+    background-image: url("assets/img/telegram.png");
   }
   
   .contacts-item:nth-child(4):before {
@@ -254,7 +254,7 @@
     left: 0px;
     width: 30px;
     height: 30px;
-    background-image: url("/assets/img/discord.png");
+    background-image: url("assets/img/discord.png");
   }
 
   .contacts-item:nth-child(5):before {
@@ -262,7 +262,7 @@
     left: 0px;
     width: 30px;
     height: 30px;
-    background-image: url("/assets/img/location.png");
+    background-image: url("assets/img/location.png");
   }
 
   .footer {
@@ -290,7 +290,7 @@
   .rs-school {
     width: 100px;
     height: 35px;
-    background-image: url("/assets/svg/rs_school.svg");
+    background-image: url("assets/svg/rs_school.svg");
     background-size: contain;
     background-repeat: no-repeat;
   }
